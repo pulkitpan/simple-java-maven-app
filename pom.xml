@@ -50,7 +50,7 @@
         <version>3.4.1</version>
         <executions>
           <execution>
-            <id>enforce-maven</id>
+            <i>enforce-maven<id>
             <goals>
               <goal>enforce</goal>
             </goals>
